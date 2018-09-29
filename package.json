@@ -23,7 +23,7 @@
     "axios": "^0.16.2",
     "express": "^4.16.3",
     "mongoose": "^5.0.17",
-    "bodyParser":"*",
-    "dotenv": "*"
+    "bodyParser":"^1.18.3",
+    "dotenv": "^6.0.0"
   }
  }
